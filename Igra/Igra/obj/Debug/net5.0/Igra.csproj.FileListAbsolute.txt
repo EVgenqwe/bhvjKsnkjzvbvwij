@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Igra\Igra\bin\Debug\net5.0\Igra.exe
+C:\Users\User\source\repos\Igra\Igra\bin\Debug\net5.0\Igra.deps.json
+C:\Users\User\source\repos\Igra\Igra\bin\Debug\net5.0\Igra.runtimeconfig.json
+C:\Users\User\source\repos\Igra\Igra\bin\Debug\net5.0\Igra.runtimeconfig.dev.json
+C:\Users\User\source\repos\Igra\Igra\bin\Debug\net5.0\Igra.dll
+C:\Users\User\source\repos\Igra\Igra\bin\Debug\net5.0\ref\Igra.dll
+C:\Users\User\source\repos\Igra\Igra\bin\Debug\net5.0\Igra.pdb
+C:\Users\User\source\repos\Igra\Igra\obj\Debug\net5.0\Igra.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Igra\Igra\obj\Debug\net5.0\Igra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Igra\Igra\obj\Debug\net5.0\Igra.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Igra\Igra\obj\Debug\net5.0\Igra.AssemblyInfo.cs
+C:\Users\User\source\repos\Igra\Igra\obj\Debug\net5.0\Igra.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Igra\Igra\obj\Debug\net5.0\Igra.dll
+C:\Users\User\source\repos\Igra\Igra\obj\Debug\net5.0\ref\Igra.dll
+C:\Users\User\source\repos\Igra\Igra\obj\Debug\net5.0\Igra.pdb
+C:\Users\User\source\repos\Igra\Igra\obj\Debug\net5.0\Igra.genruntimeconfig.cache
